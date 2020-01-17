@@ -11,9 +11,9 @@ nav-menu: true
 
 </br></br></br>
 
-<img src="assets\images\im_in_a_car_frontview.jpg">
+<img src="assets\images\im_in_a_car_frontview.jpg" align="middle">
 
 <img src="assets\images\bottom_aeroshell.jpg">
 
-<img src="assets\images\low_voltage_system_PNG">
+<img src="assets\images\low_voltage_system.jpg">
 
