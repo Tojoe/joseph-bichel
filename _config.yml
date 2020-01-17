@@ -1,8 +1,8 @@
 # site settings
 title: Joseph Bichel
-subtitle: 
+subtitle: Hi, my name is Joseph; welcome to my webste
 email: joseph.bichel@live.com
-description: My personal project to promote my experience and work
+description: #My personal project to promote my experience and work
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tojoe.github.io" # the base hostname & protocol for your site
 author:
