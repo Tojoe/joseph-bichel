@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capstone
-description: My experience at UBC Solar
+description: My Engineering Physics Capstone
 image: assets/images/MLDAP.png
 nav-menu: true
 ---
