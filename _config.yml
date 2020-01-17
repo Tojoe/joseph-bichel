@@ -15,7 +15,7 @@ phone: +1 (403) 828-5311
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 12
 
 # social settings
 500px_url:
