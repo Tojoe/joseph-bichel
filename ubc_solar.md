@@ -16,7 +16,7 @@ I had the pleasure of co-leading the team administration and leading the electri
 <img src="assets\images\Dashboard.jpg">
 
 
-<img src="assets\images\im_in_a_car_frontview.jpg" align="middle">
+<img src="assets\images\im_in_a_car_frontview.jpg" align="right">
 
 <img src="assets\images\bottom_aeroshell.jpg">
 
