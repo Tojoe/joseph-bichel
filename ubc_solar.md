@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UBC Solar
+title: A UBC Solar
 description: My experience at UBC Solar
 image: assets/images/ubc_solar_car.jpg
 nav-menu: true
