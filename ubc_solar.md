@@ -8,10 +8,12 @@ nav-menu: true
 
 
 <img src="assets\images\Dashboard.jpg">
-</br>
+
+</br></br></br>
+
 <img src="assets\images\im_in_a_car_frontview.jpg">
-</br>
+
 <img src="assets\images\bottom_aeroshell.jpg">
-</br>
+
 <img src="assets\images\low_voltage_system_PNG">
-</br>
+
