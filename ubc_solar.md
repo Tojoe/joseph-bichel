@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A UBC Solar
+title: UBC Solar
 description: My experience at UBC Solar
 image: assets/images/ubc_solar_car.jpg
 nav-menu: true
@@ -15,5 +15,5 @@ nav-menu: true
 
 <img src="assets\images\bottom_aeroshell.jpg">
 
-<img src="assets\images\low_voltage_system.jpg">
+<img src="assets\images\low_votlage_system.jpg">
 
