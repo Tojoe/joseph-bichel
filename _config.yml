@@ -6,12 +6,12 @@ description: My personal project to promote my experience and work
 baseurl: "/joseph-bichel" # the subpath of your site, e.g. /blog
 url: "http://tojoe.github.io/joseph-bichel" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 3702 West 16th
+city: Vancouver
+state: BC
+zip_code: V6R 3C4
+country: Canada
+phone: +1 (403) 828-5311
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
