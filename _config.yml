@@ -4,7 +4,7 @@ subtitle:
 email: joseph.bichel@live.com
 description: My personal project to promote my experience and work
 baseurl: "/joseph-bichel" # the subpath of your site, e.g. /blog
-url: "http://tojoe.github.io/joseph-bichel# the base hostname & protocol for your site
+url: "http://tojoe.github.io/joseph-bichel" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
