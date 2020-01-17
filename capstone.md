@@ -2,7 +2,7 @@
 layout: post
 title: Capstone
 description: My Engineering Physics Capstone
-image: assets/images/MLDAP.png
+image: assets/images/MLDAP.jgp
 nav-menu: true
 ---
 
