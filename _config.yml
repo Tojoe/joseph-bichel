@@ -3,8 +3,8 @@ title: Joseph Bichel
 subtitle: 
 email: joseph.bichel@live.com
 description: My personal project to promote my experience and work
-#baseurl: "/joseph-bichel" # the subpath of your site, e.g. /blog
-url: "https://tojoe.github.io/joseph-bichel/" # the base hostname & protocol for your site
+baseurl: "/joseph-bichel/" # the subpath of your site, e.g. /blog
+url: "https://tojoe.github.io/" # the base hostname & protocol for your site
 author:
 street_address: 3702 West 16th
 city: Vancouver
