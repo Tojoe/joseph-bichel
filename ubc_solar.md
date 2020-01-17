@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: UBC Solar
+description: My experience at UBC Solar
+image: assets/images/ubc_solar_car.jpg
 nav-menu: true
 ---
 
