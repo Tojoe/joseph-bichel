@@ -29,6 +29,7 @@ As head of the team I learned what made this organization so specicial. The docu
 During my time at UBC Solar I reimagined the structure of the team. I became electrical lead without a proper leadership and it was a very stressful experience. We needed a way to ingrain the knowledge we spent so long to achieve. One of the solutions to solidify this organizational knowledge was to develop a strong administrative team presence. 
 
 <img src="assets\images\working_on_the_car.jpg">
+<center> Working on the cableing! </center>
 ## Electrical Lead
 As Electrical Lead, I was responsible to organise and synchronize the four subteams under the electrical division. These subteams include:
  - Power Electronics : Responsible for design specifications and selecting components for the motor, motor controller, maximum power-point trackers and solar array
@@ -46,13 +47,8 @@ As head of the electrical team I was vetted the design, purchasing and manufactu
 [FSGP Electrical Design Report](https://drive.google.com/file/d/1JXfAFOqf5ivnvS3uNIGVRVvpx85yX1YJ/view?usp=sharing)
 (A link to a viewing file in my google drive)
 
-Electrical Diagram 
+<center> The Electrical Block Diagram </center> 
 <img src="assets\images\electrical_diagram.jpg">
-<img src="assets\images\im_in_a_car_frontview.jpg" align="right">
-<img src="assets\images\im_in_a_car_sideview.jpg">
-
-<img src="assets\images\lighting_schematic.jpg">
-<img src="assets\images\low_votlage_system.jpg">
 
 ## Technical Details
 
@@ -95,6 +91,10 @@ In this section I will speak to some technical details of the project.
 
 
 
+<img src="assets\images\lighting_schematic.jpg">
+<img src="assets\images\low_votlage_system.jpg">
+<img src="assets\images\im_in_a_car_frontview.jpg" align="right">
+<img src="assets\images\im_in_a_car_sideview.jpg">
 
 
 
