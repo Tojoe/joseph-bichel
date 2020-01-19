@@ -12,7 +12,7 @@ I had the pleasure of co-leading the team administration and leading the electri
 
 <img src="assets\images\the_team.jpg">
 
-## As Co-Captain
+### As Co-Captain
 I was responsible for administrative work to keep the team operational, this included:
  - Creating a budget and managing the finances of the team 
  - Writing sponsorship and grant applications
@@ -22,10 +22,27 @@ I was responsible for administrative work to keep the team operational, this inc
  
 As head of the team I learned what made this organization so specicial. The document linked below is an example of a report we would send to our supporters. The Daniel's Family Foundation recommited $60 000 over three years while I was co-captain. The admin team and I worked hard to make this happen. 
 <br/>
-Daniels Family Foundation Year End Report: https://drive.google.com/open?id=1b5JVWUEGK7YGHlsSY8RqUhjPsevMjyPm
+__Daniels Family Foundation Year End Report:__ <br/>
+_https://drive.google.com/open?id=1b5JVWUEGK7YGHlsSY8RqUhjPsevMjyPm_
 
 <img src="assets\images\Importance of Admin.jpg">
 During my time at UBC Solar I reimagined the structure of the team. I became electrical lead without a proper leadership and it was a very stressful experience. We needed a way to ingrain the knowledge we spent so long to achieve. One of the solutions to solidify this organizational knowledge was to develop a strong administrative team presence. 
+
+
+### As Electrical Lead
+I was responsible to organise and synchronize the four subteams under the electrical division. These subteams include:
+ - Power Electronics : Responsible for design specifications and selecting components for the motor, motor controller, maximum power-point trackers and solar array
+ - Battery : Responsible for the design of the high-voltage battery pack and the low-voltage battery management system
+ - Low-voltage Systems : Responsible auxiliary low-voltage systems and boards such as: the dashboard, connectors, main control node
+ - Software :  Responsible for the firmware for in-house designed boards and the software for the data management website
+ 
+Specifically, I worked with a group of leads that then organised the members of their subteam, this entailed:
+ - Developing a timeline of major milestones and working with subteam leads to develop gantt charts on a team-by-team basis
+ - Twice-a-week meetings to talk through designs, and to address development gates
+ - Helping subteam leads find resources through research or campus connections
+ - Developing budgets for each subteam
+
+
 
 
 
