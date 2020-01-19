@@ -12,13 +12,31 @@ I had the pleasure of co-leading the team administration and leading the electri
 
 <img src="assets\images\the_team.jpg">
 
+## As Co-Captain
+I was responsible for administrative work to keep the team operational, this included:
+ - Creating a budget and managing the finances of the team 
+ - Writing sponsorship and grant applications
+ - Leading a weekly meeting including a team-wide presentations, updates and a scrum
+ - Acting as the team’s liaison to the Faculty of Applied Science at UBC, the competition organizers - Innovators Education Foundation (IEF), and the international solar car community
+ - Organizing team safety training and procedures
+ 
+As head of the team I learned what made this organization so specicial. The document linked below is an example of a report we would send to our supporters. The Daniel's Family Foundation recommited $60 000 over three years while I was co-captain. The admin team and I worked hard to make this happen. 
+<br/>
+Daniels Family Foundation Year End Report: https://drive.google.com/open?id=1b5JVWUEGK7YGHlsSY8RqUhjPsevMjyPm
+
+<img src="assets\images\Importance of Admin.jpg">
+During my time at UBC Solar I reimagined the structure of the team. I became electrical lead without a proper leadership and it was a very stressful experience. We needed a way to ingrain the knowledge we spent so long to achieve. One of the solutions to solidify this organizational knowledge was to develop a strong administrative team presence. 
+
+
+
+
 
 <br/><br/><br/><br/>
 
 <img src="assets\images\Dashboard.jpg">
 
 <img src="assets\images\Don't try to build an MPPT.jpg">
-<img src="assets\images\Importance of Admin.jpg">
+
 <img src="assets\images\NGM_on_it's_face.jpg">
 <img src="assets\images\UBC Solar with NUSoalr.jpg">
 
