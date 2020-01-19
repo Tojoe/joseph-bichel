@@ -15,10 +15,39 @@ I had the pleasure of co-leading the team administration and leading the electri
 
 <img src="assets\images\Dashboard.jpg">
 
+<img src="assets\images\Don't try to build an MPPT.jpg">
+<img src="assets\images\Importance of Admin.jpg">
+<img src="assets\images\NGM_on_it's_face.jpg">
+<img src="assets\images\UBC Solar with NUSoalr.jpg">
+
+<img src="assets\images\battery_pack.jpg">
+<img src="assets\images\battery_up_close.jpg">
+<img src="assets\images\bottom_aeroshell.jpg">
+<img src="assets\images\cable_management.jpg">
+<img src="assets\images\driving_motor.png">
+<img src="assets\images\electrical_diagram.jpg">
+
+<img src="assets\images\electronics_location.jpg">
+<img src="assets\images\im_in_a_car_frontview.jpg">
+<img src="assets\images\im_in_a_car_sideview.jpg">
+<img src="assets\images\lighting_schematic.jpg">
+<img src="assets\images\low_votlage_system.jpg>
+<img src="assets\images\main_control_node.jpg">
+
+
+<img src="assets\images\main_control_node_bare.jpg">
+<img src="assets\images\motor_controller.jpg">
+<img src="assets\images\im_in_a_car_sideview.jpg">
+<img src="assets\images\solar_testing.jpg">
+<img src="assets\images\work_day.jpg">
+<img src="assets\images\working_on_battery.jpg">
+<img src="assets\images\working_on_the_car.jpg">
 
 <img src="assets\images\im_in_a_car_frontview.jpg" align="right">
 
 <img src="assets\images\bottom_aeroshell.jpg">
+
+<img src="assets\images\low_votlage_system.jpg">
 
 <img src="assets\images\low_votlage_system.jpg">
 
