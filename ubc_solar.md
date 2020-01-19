@@ -22,8 +22,8 @@ I was responsible for administrative work to keep the team operational, this inc
  
 As head of the team I learned what made this organization so specicial. The document linked below is an example of a report we would send to our supporters. The Daniel's Family Foundation recommited $60 000 over three years while I was co-captain. The admin team and I worked hard to make this happen. 
 <br/>
-__Daniels Family Foundation Year End Report:__ <br/>
-_https://drive.google.com/open?id=1b5JVWUEGK7YGHlsSY8RqUhjPsevMjyPm_
+[Daniels Family Foundation Year End Report](https://drive.google.com/open?id=1b5JVWUEGK7YGHlsSY8RqUhjPsevMjyPm)
+(A link to a viewing file in my google drive)
 
 <img src="assets\images\Importance of Admin.jpg">
 During my time at UBC Solar I reimagined the structure of the team. I became electrical lead without a proper leadership and it was a very stressful experience. We needed a way to ingrain the knowledge we spent so long to achieve. One of the solutions to solidify this organizational knowledge was to develop a strong administrative team presence. 
@@ -41,10 +41,10 @@ Specifically, I worked with a group of leads that then organised the members of 
  - Twice-a-week meetings to talk through designs, and to address development gates
  - Helping subteam leads find resources through research or campus connections
  - Developing budgets for each subteam
-
-
-
-
+ 
+As head of the electrical team I was vetted the design, purchasing and manufacturing of the electrical system. Knowing the system inside-out was necessary for the submission of the electrical design report to the competition officials. I will speak to many details shortly, but this document is a strong summary. <br/>
+[FSGP Electrical Design Report](https://drive.google.com/file/d/1JXfAFOqf5ivnvS3uNIGVRVvpx85yX1YJ/view?usp=sharing)
+(A link to a viewing file in my google drive)
 
 
 
