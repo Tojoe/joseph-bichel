@@ -31,7 +31,7 @@ I had the pleasure of co-leading the team administration and leading the electri
 <img src="assets\images\im_in_a_car_frontview.jpg">
 <img src="assets\images\im_in_a_car_sideview.jpg">
 <img src="assets\images\lighting_schematic.jpg">
-<img src="assets\images\low_votlage_system.jpg>
+<img src="assets\images\low_votlage_system.jpg">
 <img src="assets\images\main_control_node.jpg">
 
 
