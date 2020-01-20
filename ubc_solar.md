@@ -29,7 +29,8 @@ As head of the team I learned what made this organization so specicial. The docu
 During my time at UBC Solar I reimagined the structure of the team. I became electrical lead without a proper leadership and it was a very stressful experience. We needed a way to ingrain the knowledge we spent so long to achieve. One of the solutions to solidify this organizational knowledge was to develop a strong administrative team presence. 
 
 <img src="assets\images\working_on_the_car.jpg">
-<center> Working on the cableing! </center>
+<center> Working on the car! </center>
+
 ## Electrical Lead
 As Electrical Lead, I was responsible to organise and synchronize the four subteams under the electrical division. These subteams include:
  - Power Electronics : Responsible for design specifications and selecting components for the motor, motor controller, maximum power-point trackers and solar array
@@ -48,7 +49,7 @@ As head of the electrical team I was vetted the design, purchasing and manufactu
 (A link to a viewing file in my google drive)
 
 <center> The Electrical Block Diagram </center> 
-<img src="assets\images\electrical_diagram.jpg">
+<img src="assets\images\electrical_diagram.jpg" align="middle">
 
 ## Technical Details
 
@@ -56,7 +57,12 @@ In this section I will speak to some technical details of the project.
 
 ### Power Electronics
 
-<img src="assets\images\NGM_on_it's_face.jpg">
+<img src="assets\images\NGM_on_it's_face.jpg" width="480" height="398" alight="left">
+This is the solar cars motor, an NGM SCM150.<br/>
+This motor is an in-hub motor. To use an in-hub motor is a common practice in the solar vehicle building. Specially built motors match torque requirements to push the light vehicle, but don't demand too much power from the battery pack. Most critically, high efficiencies without drivetrain losses  are idea when solar power is precious.
+In design we had originally opted not to use this motor, because it is almost double the weight of similarly efficient/powerful motors. However, we needed to make a concession because this motor was almost an eighth the price of the ideal scenario. This satisfied our budget.
+
+
 <img src="assets\images\Don't try to build an MPPT.jpg">
 <img src="assets\images\driving_motor.png">
 <img src="assets\images\electronics_location.jpg">
