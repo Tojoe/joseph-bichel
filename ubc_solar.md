@@ -57,10 +57,10 @@ In this section I will speak to some technical details of the project.
 
 ### Power Electronics
 
-<img src="assets\images\NGM_on_it's_face.jpg" width="480" height="398" alight="left">
-This is the solar cars motor, an NGM SCM150.
-This motor is an in-hub motor. To use an in-hub motor is a common practice in the solar vehicle building. Specially built motors match torque requirements to push the light vehicle, but don't demand too much power from the battery pack. Most critically, high efficiencies without drivetrain losses  are idea when solar power is precious.
-In design we had originally opted not to use this motor, because it is almost double the weight of similarly efficient/powerful motors. However, we needed to make a concession because this motor was almost an eighth the price of the ideal scenario. This satisfied our budget.
+<img src="assets\images\NGM_on_it's_face.jpg" width="480" height="398" alight="left"><br clear="left"/>
+This our solar cars in-hub motor, an NGM SCM150. To use an in-hub motor is a common practice in the solar vehicle building. Specially built motors match torque requirements to push the light vehicle, but don't demand too much power from the battery pack. Most critically, high efficiencies without drivetrain losses  are idea when solar power is precious. In design we had originally opted not to use this motor, because it is almost double the weight of similarly efficient/powerful motors. However, we needed to make a concession because this motor was almost an eighth the price of the ideal scenario. Buying solar panels and a motor seemed more important than a fancy motor.
+
+
 
 
 <img src="assets\images\Don't try to build an MPPT.jpg">
