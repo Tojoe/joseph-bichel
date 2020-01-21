@@ -48,16 +48,24 @@ As head of the electrical team I was vetted the design, purchasing and manufactu
 [FSGP Electrical Design Report](https://drive.google.com/file/d/1JXfAFOqf5ivnvS3uNIGVRVvpx85yX1YJ/view?usp=sharing)
 (A link to a viewing file in my google drive)
 
-<center> The Electrical Block Diagram </center> 
-<img src="assets\images\electrical_diagram.jpg" align="middle">
-
+<center> <h4> The Electrical Block Diagram </h4> </center> 
+<span class="image fit"><img src="assets\images\electrical_diagram.jpg" alt="" /></span>
 ## Technical Details
 
 In this section I will speak to some technical details of the project.
 
 ### Power Electronics
 
-<p><span class="image left"><img src="assets\images\NGM_on_it's_face.jpg" alt="" /></span> <br/> <br/> This our solar cars in-hub motor, an NGM SCM150. <br/> To use an in-hub motor is a common practice in the solar vehicle building. Specially built motors fit torque requirements of the light vehicle,and demand a suitable power from the battery pack. Most critically, high efficiencies without drivetrain losses are ideal when each watt of solar power is precious. In design we had originally opted not to use this motor, because it is almost double the weight of similarly efficient/powerful motors. We made a concession because this motor was almost an eighth the price of the "ideal motor". </p>
+<p><span class="image left"><img src="assets\images\NGM_on_it's_face.jpg" alt="" /></span> <br/> This our solar cars in-hub motor, an NGM SCM150. <br/> To use an in-hub motor is a common practice in the solar vehicle building. Specially built motors fit torque requirements of the light vehicle,and demand a suitable power from the battery pack. Most critically, high efficiencies without drivetrain losses are ideal when each watt of solar power is precious. In design we had originally opted not to use this motor, because it is almost double the weight of similarly efficient/powerful motors. We made a concession because this motor was almost an eighth the price of the "ideal motor". </p>
+
+<p><span class="image right"><img src="assets\images\solar_testing.jpg" alt="" /></span>
+
+
+
+
+</p>
+
+
 
 
 ## Stay tuned for more details about the project!
