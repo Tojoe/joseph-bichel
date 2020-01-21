@@ -1,6 +1,6 @@
 # site settings
 title: Joseph Bichel
-subtitle: Hi, my name is Joseph; welcome to my webste
+subtitle: #Hi, my name is Joseph; welcome to my webste
 email: joseph.bichel@live.com
 description: #My personal project to promote my experience and work
 baseurl: "/" # the subpath of your site, e.g. /blog
