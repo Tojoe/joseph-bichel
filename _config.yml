@@ -6,11 +6,11 @@ description: #My personal project to promote my experience and work
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tojoe.github.io" # the base hostname & protocol for your site
 author:
-street_address: 3702 West 16th
-city: Vancouver
-state: BC
-zip_code: V6R 3C4
-country: Canada
+#street_address: 3702 West 16th
+#city: Vancouver
+#state: BC
+#zip_code: V6R 3C4
+#country: Canada
 phone: +1 (403) 828-5311
 
 # homepage tiles
@@ -18,16 +18,16 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 12
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+#500px_url:
+#facebook_url:
+#github_url: 
+#gitlab_url: 
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+#instagram_url: https://instagram.com
+linkedin_url: www.linkedin.com/in/joseph-bichel
+#pinterest_url:
+#slack_url:
+#twitter_url: https://twitter.com/andrewbanchich
 
 # build settings
 markdown: kramdown
