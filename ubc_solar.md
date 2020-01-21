@@ -63,7 +63,7 @@ In this section I will speak to some technical details of the project.
 
 
 
-
+<!---
 
 <img src="assets\images\Don't try to build an MPPT.jpg">
 <img src="assets\images\electronics_location.jpg">
@@ -104,4 +104,4 @@ In this section I will speak to some technical details of the project.
 <img src="assets\images\im_in_a_car_sideview.jpg">
 
 
-
+--->
