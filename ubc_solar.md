@@ -62,6 +62,8 @@ In this section I will speak to some technical details of the project.
 <p><span class="image right"><img src="assets\images\motor_controller.jpg" alt="" width="1100" height="663"  /></span> <br/> <br/> . </p>
 
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 <!---
 
