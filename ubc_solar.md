@@ -50,6 +50,14 @@ As head of the electrical team I was vetted the design, purchasing and manufactu
 
 <center> <h4> The Electrical Block Diagram </h4> </center> 
 <span class="image fit"><img src="assets\images\electrical_diagram.jpg" alt="" /></span>
+
+<img src="assets\images\rendering.jpg">
+
+## Daybreak
+
+#### Here is a rendering of the car the team envisioned in January 2018.
+
+
 ## Technical Details
 
 In this section I will speak to some technical details of the project.
@@ -59,6 +67,13 @@ In this section I will speak to some technical details of the project.
 <p><span class="image left"><img src="assets\images\NGM_on_it's_face.jpg" alt="" /></span> This our solar cars in-hub motor, an NGM SCM150. <br/> To use an in-hub motor is a common practice in the solar vehicle building. Specially built motors fit torque requirements of the light vehicle,and demand a suitable power from the battery pack. Most critically, high efficiencies without drivetrain losses are ideal when each watt of solar power is precious. In design we had originally opted not to use this motor, because it is almost double the weight of similarly efficient/powerful motors. We made a concession because this motor was almost an eighth the price of the "ideal motor". </p>
 
 <p><span class="image right"><img src="assets\images\solar_testing.jpg" alt="" /></span> <br/><br/><br/><br/> Here is an example of the cars solar array. In this photo we are conducting a functionality test of the Maximum Power-Point Tracker (MPPT). This particular MPPT is a boost converter selected so that the 60V solar arrays strings could charge the 100.8V battery pack. Two 12V lead-acid batteries were used as a load. We measured the input and output voltages and currents to make sure everything was acting as expected. It was! </p>
+
+
+### Battery 
+<img src="assets\images\battery_pack.jpg">
+<img src="assets\images\battery_up_close.jpg">
+<img src="assets\images\working_on_battery.jpg">
+
 
 <br/><br/><br/><br/><br/><br/><br/>
 
