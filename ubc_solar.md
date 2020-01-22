@@ -59,7 +59,7 @@ As head of the electrical team I was vetted the design, purchasing and manufactu
 
 ## Technical Details
 
-In this section I will speak to some technical details of the project.
+In this section I will speak to some technical details of the project. As a precursor to the details to follow, as Electrical Lead my primary role was to mobilize a group of talented young engineerings and in no way do I want to take credit for others work. In design my responsibility was to vet the functionality and effectiveness of the design. For example I did not construct the low-voltage system PCBs in Altium, but I did guide every decision in the design path. That being said, I personally contributed to the manufacturing and testing of every electrical component of the car. At the end of the day, I ensured everything worked.
 
 ### Power Electronics
 
@@ -67,15 +67,11 @@ In this section I will speak to some technical details of the project.
 
 <p><span class="image right"><img src="assets\images\solar_testing.jpg" alt="" /></span> To use an in-hub motor is a common practice in the solar vehicle building. Specially built motors fit torque requirements of the light vehicle,and demand a suitable power from the battery pack. Most critically, high efficiencies without drivetrain losses are ideal when each watt of solar power is precious. In design we had originally opted not to use this motor, because it is almost double the weight of similarly efficient/powerful motors. We made a concession because this motor was almost an eighth the price of the "ideal motor". <br/><br/> Here is an example of the cars solar array. In this photo we are conducting a functionality test of the Maximum Power-Point Tracker (MPPT). This particular MPPT is a boost converter selected so that the 60V solar arrays strings could charge the 100.8V battery pack. Two 12V lead-acid batteries were used as a load. We measured the input and output voltages and currents to make sure everything was acting as expected. It was! </p>
 
-<br/><br/>
-
 ### Battery 
 
 <p><span class="image left"><img src="assets\images\battery_pack.jpg" alt="" /></span> The battery pack of the solar car is composed of 420 Li-ion 18650 cells. </p>
  
 <p><span class="image right"><img src="assets\images\working_on_battery.jpg" alt="" /></span> 28 modules of 15 parallel cells are strung together to form a 100.8V nominal battery back with 5.14kWh of power. The battery pack voltage, current, temperature and state of charge are monitored by an off-the-shelf Elithion battery management system (BMS). Pictured below are the “cell boards” that relay pack voltage to the BMS master. <br/> <br/> This battery pack was easily the most significant electrical challenge of the car. The mechanical design features cells arranged in plastic holders, spot-welded to an aluminum grid then soldered to copper plates that can be bolted to an adjacent module, and tonnes of conductive paste. The electrical design features 4 contractors to each of the major terminals of the high voltage system (array, motor controller, positive and negative terminals of the battery pack), a supplemental battery pack for start up and a circuit to switch to the DC-DC converter power. It was a profoundly buggy circuit further complicated by the black box that is an off-the-shelf component.</p>
-
-<br/>
 
 <center> <h4>  The BMS cell boards up close!. </h4> </center>
 
@@ -83,13 +79,14 @@ In this section I will speak to some technical details of the project.
 
 ### Low Voltage System
 
-<img src="assets\images\Dashboard.jpg">
-
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="6u"><span class="image fit"><img src="assets\images\main_control_node_bare.jpg" alt="" /></span></div>
 		<div class="6u"><span class="image fit"><img src="assets\images\main_control_node.jpg" alt="" /></span></div></div>
 </div>
+
+
+<span class="image fit"><img src="assets\images\Dashboard.jpg" alt="" /></span> 
 
 
 <br/><br/><br/><br/><br/><br/><br/>
