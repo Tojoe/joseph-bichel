@@ -53,9 +53,9 @@ As head of the electrical team I was vetted the design, purchasing and manufactu
 
 ## Daybreak
 
-#### Here is a rendering of the car the team envisioned in January 2018.
+<center> <h4>  Here is a rendering of the car the team envisioned in January 2018. </h4> </center>
 
-<span class="image fit"><img src="assets\images\rendering.jpg" alt="" /></span>
+<span class="image fit"><img src="assets\images\rendering.jpg" alt="" /></span> 
 
 ## Technical Details
 
@@ -67,9 +67,19 @@ In this section I will speak to some technical details of the project.
 
 <p><span class="image right"><img src="assets\images\solar_testing.jpg" alt="" /></span> <br/><br/><br/><br/> Here is an example of the cars solar array. In this photo we are conducting a functionality test of the Maximum Power-Point Tracker (MPPT). This particular MPPT is a boost converter selected so that the 60V solar arrays strings could charge the 100.8V battery pack. Two 12V lead-acid batteries were used as a load. We measured the input and output voltages and currents to make sure everything was acting as expected. It was! </p>
 
+<br/><br/><br/><br/>
 
 ### Battery 
-<img src="assets\images\battery_pack.jpg">
+
+<p><span class="image left"><img src="assets\images\battery_pack.jpg" alt="" /></span> The battery pack of the solar car is composed of 420 Li-ion 18650 cells. 28 modules of 15 parallel cells are strung together to form a 100.8V nominal battery back with 5.14kWh of power. The battery pack voltage, current, temperature and state of charge are monitored by an off-the-shelf Elithion battery management system (BMS). Pictured below are the “cell boards” that relay pack voltage to the BMS master. <br/>
+This battery pack was easily the most significant electrical challenge of the car. The mechanical design features cells arranged in plastic holders, spot-welded to an aluminum grid then soldered to copper plates that can be bolted to an adjacent module, and tonnes of conductive paste. The electrical design features 4 contractors to each of the major terminals of the high voltage system (array, motor controller, positive and negative terminals of the battery pack), a supplemental battery pack for start up and a circuit to switch to the DC-DC converter power. It was a profoundly buggy circuit further complicated by the black box that is an off-the-shelf component.
+ </p>
+
+<br/><br/><br/>
+
+
+<center> <h4>  The BMS cell boards up close!. </h4> </center>
+
 <img src="assets\images\battery_up_close.jpg">
 <img src="assets\images\working_on_battery.jpg">
 
