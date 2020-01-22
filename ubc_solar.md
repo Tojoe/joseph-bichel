@@ -84,9 +84,13 @@ In this section I will speak to some technical details of the project.
 ### Low Voltage System
 
 <img src="assets\images\Dashboard.jpg">
-<img src="assets\images\main_control_node.jpg">
-<img src="assets\images\main_control_node_bare.jpg">
 
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets\images\main_control_node_bare.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets\images\main_control_node.jpg" alt="" /></span></div>
+	</div>
+</div>
 
 
 <br/><br/><br/><br/><br/><br/><br/>
