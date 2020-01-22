@@ -51,12 +51,11 @@ As head of the electrical team I was vetted the design, purchasing and manufactu
 <center> <h4> The Electrical Block Diagram </h4> </center> 
 <span class="image fit"><img src="assets\images\electrical_diagram.jpg" alt="" /></span>
 
-<img src="assets\images\rendering.jpg">
-
 ## Daybreak
 
 #### Here is a rendering of the car the team envisioned in January 2018.
 
+<span class="image fit"><img src="assets\images\rendering.jpg" alt="" /></span>
 
 ## Technical Details
 
