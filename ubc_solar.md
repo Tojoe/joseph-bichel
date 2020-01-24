@@ -25,11 +25,13 @@ As head of the team I learned what made this organization so specicial. The docu
 [Daniels Family Foundation Year End Report](https://drive.google.com/open?id=1b5JVWUEGK7YGHlsSY8RqUhjPsevMjyPm)
 (A link to a viewing file in my google drive)
 
+<center> <h4>  A thinking session on we hoped the Admin team would do </h4> </center>
 <img src="assets\images\Importance of Admin.jpg">
 During my time at UBC Solar I reimagined the structure of the team. I became electrical lead without a proper leadership and it was a very stressful experience. We needed a way to ingrain the knowledge we spent so long to achieve. One of the solutions to solidify this organizational knowledge was to develop a strong administrative team presence. 
 
+
+<center> <h4>  Here's me working on the car!</h4> </center>
 <img src="assets\images\working_on_the_car.jpg">
-<center> Working on the car! </center>
 
 ## Electrical Lead
 As Electrical Lead, I was responsible to organise and synchronize the four subteams under the electrical division. These subteams include:
@@ -98,12 +100,9 @@ Through the development of these I learned the importance of thorough design. As
 <center> <h4>  Driver Dashboard: That big red buttton is the emergency off switch </h4> </center>
 <span class="image fit"><img src="assets\images\Dashboard.jpg" alt="" /></span> 
 
+Thank you for reading about my solar car project! It was quite an experience to say the least. I have only included a sliver of the information here, so should you be interested in hearing more feel free to reach out to me!
 
-<br/><br/><br/><br/><br/><br/><br/>
-
-## Stay tuned for more details about the project!
-
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <!---
 
