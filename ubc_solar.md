@@ -86,7 +86,7 @@ In this section I will speak to some technical details of the project. As a prec
 		<div class="6u"><span class="image fit"><img src="assets\images\main_control_node_bare.jpg" alt="" /></span></div>
 		<div class="6u"><span class="image fit"><img src="assets\images\main_control_node.jpg" alt="" /></span></div></div>
 </div>
-The low-voltage system (LVS) is a catch-all term to cover many critical components of the car that simply were power components. In particular the LVS covered:
+The low-voltage system (LVS) is a catch-all term to cover many critical components of the car that simply were power components. <br/> In particular the LVS covered:
 - driver input: acceleration, signal lights, horn etc.
 - standard vehicle lighting
 - a CAN network for module communication
