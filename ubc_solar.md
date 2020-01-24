@@ -100,7 +100,7 @@ Through the development of these I learned the importance of thorough design. As
 <center> <h4>  Driver Dashboard: That big red buttton is the emergency off switch </h4> </center>
 <span class="image fit"><img src="assets\images\Dashboard.jpg" alt="" /></span> 
 
-Thank you for reading about my solar car project! It was quite an experience to say the least. I have only included a sliver of the information here, so should you be interested in hearing more feel free to reach out to me!
+### Thank you for reading about my solar car project! It was quite an experience to say the least. I have only included a sliver of the information here, so should you be interested in hearing more feel free to reach out to me!
 
 <br/><br/><br/>
 
