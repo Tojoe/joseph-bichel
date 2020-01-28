@@ -96,6 +96,7 @@ The low-voltage system (LVS) is a catch-all term to cover many critical componen
 - radio and cellular driver and system communication 
 The majority of electrical in-house design was covered in this section of the vehicle. The PCBs pictured below are the main control node and the driver dashboard.
 <br/>
+<br/>
 Through the development of these I learned the importance of thorough design. As you can see the right photo of the main control node (above) I had to make some last minute changes to correct the pull-up resistors of the accelerator’s encoder. This oversight could have been eliminated with a component-by-component design verification and test prior to manufacturing the PCB.
 
 <center> <h4>  Driver Dashboard: That big red buttton is the emergency off switch </h4> </center>
