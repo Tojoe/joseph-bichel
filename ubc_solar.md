@@ -40,6 +40,7 @@ As the electrical lead I was responsible to organize and synchronize the four su
 - Low-voltage Systems: Responsible auxiliary low-voltage systems and boards such as: the dashboard, connectors, main control node
 - Software: Responsible for the firmware for in-house designed boards and the software for the data management website
 <br/>
+<br/>
 Specifically, I worked with a group of leads that then organized the members of their sub-team. This entailed:
 - Developing a timeline of major milestones and working with subteam leads to develop gantt charts on a team-by-team basis
 - Twice-a-week meetings to talk through designs, and to address development gates
